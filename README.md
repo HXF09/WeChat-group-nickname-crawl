@@ -5,4 +5,5 @@
 可以用python打包成可执行文件
 
 需要注意指令  pyinstaller --onefile --hidden-import=comtypes.stream 微信群名称爬取.py
+
 否则会报错
